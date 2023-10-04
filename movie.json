@@ -1,0 +1,105 @@
+[{
+    "title": "Dawn of the Planet of the Apes",
+    "image": "https://upload.wikimedia.org/wikipedia/ar/8/82/Dawn_of_the_planet_of_the_apes_ver6.jpg",
+    "rating": 8.3,
+    "releaseYear": 2014,
+    "genre": ["Action", "Drama", "Sci-Fi"]
+},
+{
+    "title": "District 9",
+    "image": "https://en.wikipedia.org/wiki/District_9#/media/File:District_nine_ver2.jpg",
+    "rating": 8,
+    "releaseYear": 2009,
+    "genre": ["Action", "Sci-Fi", "Thriller"]
+},
+{
+    "title": "Transformers: Age of Extinction",
+    "image": "https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction#/media/File:Transformers_Age_of_Extinction_poster.jpg",
+    "rating": 6.3,
+    "releaseYear": 2014,
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+},
+{
+    "title": "X-Men: Days of Future Past",
+    "image": "https://en.wikipedia.org/wiki/X-Men:_Days_of_Future_Past#/media/File:X-Men_Days_of_Future_Past_poster.jpg",
+    "rating": 8.4,
+    "releaseYear": 2014,
+    "genre": ["Action", "Sci-Fi", "Thriller"]
+},
+{
+    "title": "The Machinist",
+    "image": "https://en.wikipedia.org/wiki/The_Machinist#/media/File:The_Machinist_poster.JPG",
+    "rating": 7.8,
+    "releaseYear": 2004,
+    "genre": ["Drama", "Thriller"]
+},
+{
+    "title": "The Last Samurai",
+    "image": "https://en.wikipedia.org/wiki/The_Last_Samurai#/media/File:The_Last_Samurai.jpg",
+    "rating": 7.7,
+    "releaseYear": 2003,
+    "genre": ["Action", "Drama", "History"]
+},
+{
+    "title": "The Amazing Spider-Man 2",
+    "image": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2#/media/File:The_Amazing_Spider-Man_2_poster.jpg",
+    "rating": 7.3,
+    "releaseYear": 2014,
+    "genre": ["Action", "Adventure", "Fantasy"]
+},
+{
+    "title": "Tangled",
+    "image": "https://en.wikipedia.org/wiki/Tangled#/media/File:Tangled_poster.jpg",
+    "rating": 7.9,
+    "releaseYear": 2010,
+    "genre": ["Action", "Drama", "Sci-Fi"]
+},
+{
+    "title": "Rush",
+    "image": "https://en.wikipedia.org/wiki/Rush_(2013_film)#/media/File:Rush_UK_poster.jpeg",
+    "rating": 8.3,
+    "releaseYear": 2013,
+    "genre": ["Animation", "Comedy", "Family"]
+},
+{
+    "title": "Drag Me to Hell",
+    "image": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell#/media/File:Dragmetohell.jpg",
+    "rating": 6.7,
+    "releaseYear": 2009,
+    "genre": ["Horror", "Thriller"]
+},
+{
+    "title": "Despicable Me 2",
+    "image": "https://en.wikipedia.org/wiki/Despicable_Me_2#/media/File:Despicable_Me_2_poster.jpg",
+    "rating": 7.6,
+    "releaseYear": 2013,
+    "genre": ["Animation", "Comedy", "Family"]
+},
+{
+    "title": "Kill Bill: Vol. 1",
+    "image": "https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1#/media/File:Kill_Bill_Volume_1.png",
+    "rating": 8.2,
+    "releaseYear": 2003,
+    "genre": ["Action", "Crime"]
+},
+{
+    "title": "A Bug's Life",
+    "image": "https://en.wikipedia.org/wiki/A_Bug%27s_Life#/media/File:A_Bug's_Life.jpg",
+    "rating": 7.2,
+    "releaseYear": 1998,
+    "genre": ["Animation", "Adventure", "Comedy"]
+},
+{
+    "title": "Life of Brian",
+    "image": "https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian#/media/File:Lifeofbrianfilmposter.jpg",
+    "rating": 8.9,
+    "releaseYear": 1972,
+    "genre": ["Comedy"]
+},
+{
+    "title": "How to Train Your Dragon",
+    "image": "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(film)#/media/File:How_to_Train_Your_Dragon_Poster.jpg",
+    "rating": 8.2,
+    "releaseYear": 2010,
+    "genre": ["Animation", "Adventure", "Family"]
+}]
